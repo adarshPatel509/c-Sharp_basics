@@ -1,0 +1,12 @@
+/Users/adarshpatel/letswork/c#-basics/hello-world/bin/Debug/netcoreapp3.1/hello-world.deps.json
+/Users/adarshpatel/letswork/c#-basics/hello-world/bin/Debug/netcoreapp3.1/hello-world.runtimeconfig.json
+/Users/adarshpatel/letswork/c#-basics/hello-world/bin/Debug/netcoreapp3.1/hello-world.runtimeconfig.dev.json
+/Users/adarshpatel/letswork/c#-basics/hello-world/bin/Debug/netcoreapp3.1/hello-world.dll
+/Users/adarshpatel/letswork/c#-basics/hello-world/bin/Debug/netcoreapp3.1/hello-world.pdb
+/Users/adarshpatel/letswork/c#-basics/hello-world/obj/Debug/netcoreapp3.1/hello-world.csprojAssemblyReference.cache
+/Users/adarshpatel/letswork/c#-basics/hello-world/obj/Debug/netcoreapp3.1/hello-world.csproj.CoreCompileInputs.cache
+/Users/adarshpatel/letswork/c#-basics/hello-world/obj/Debug/netcoreapp3.1/hello-world.AssemblyInfoInputs.cache
+/Users/adarshpatel/letswork/c#-basics/hello-world/obj/Debug/netcoreapp3.1/hello-world.AssemblyInfo.cs
+/Users/adarshpatel/letswork/c#-basics/hello-world/obj/Debug/netcoreapp3.1/hello-world.dll
+/Users/adarshpatel/letswork/c#-basics/hello-world/obj/Debug/netcoreapp3.1/hello-world.pdb
+/Users/adarshpatel/letswork/c#-basics/hello-world/obj/Debug/netcoreapp3.1/hello-world.genruntimeconfig.cache
