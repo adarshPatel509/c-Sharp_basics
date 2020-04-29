@@ -15,7 +15,7 @@ namespace hello_world {
   }
 
   public class Clock {
-    private int second;
+    private int second = 0;
     public delegate void SecondChangeHandler(object Clock, TimeInfoEventArg timeInfo);
     public event SecondChangeHandler SecondChanged;
     public void Run() {

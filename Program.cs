@@ -48,7 +48,21 @@ namespace hello_world
             NullOperators nullOper = new NullOperators();
 
             //events & delegates
-            EventDemo newEvent = new EventDemo();
+            // EventDemo newEvent = new EventDemo();  //uncomment to see
+
+            //LINQ
+            Linq linqDemo = new Linq();
+            
+            //Date & time
+            DateAndTime dateTime = new DateAndTime();
+
+            //Extension Methods
+            var name = " Adarsh Patel ";
+            Console.WriteLine($"totalWords: {name.WorldCount()}");
+
+            //Generics
+            GenericClass<string> myGeneric = new GenericClass<string>("adarsh");
+            myGeneric.GenericMethod("patel");
         }
     }
 }
